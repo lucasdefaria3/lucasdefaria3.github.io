@@ -1,0 +1,101 @@
+img{
+	opacity: 1;
+	width: 100%;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+ul{
+	list-style-type: none;
+}
+body{
+	font-family: monospace;
+	margin: 0px;
+	padding: 0px;
+}
+header {
+	color: white;
+	font-size: 300%;
+	background-color: #191f22;
+	margin: 0%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding-right: 10%;
+}
+nav{
+	margin: 0%;
+	border-top: 3% white solid;
+}
+footer{
+	color: white;
+	font-size: 1em;
+	text-align: left;
+	text-decoration: none;
+	background-color: #191f22;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border-top: 2px #ffffff solid;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.nom{
+	flex-grow: 1;
+	text-align: center;
+}
+.logo{
+	width: 10%;
+	height: 10%;
+	padding-left: 3%;
+}
+.navigation{
+	display: flex;
+	justify-content: space-between;
+	font-size: 1.3em;
+	text-decoration: none;
+	background-color: #191f22;
+	color: white;
+	text-decoration: none;
+	border-top: 2px #ffffff solid;
+}
+.element{
+	border-radius: 5px;
+	padding: 3%;
+	color: white;
+}
+.titre{
+	font-size: 2em;
+	padding-top: 0.5%;
+	padding-left: 4%;
+}
+.GT3{
+	background: linear-gradient(#e9e9e9, #1264ba, #000000);
+	margin: 0%;
+	padding: 0%;
+}
+.chironsport{
+	background: linear-gradient(#e2e9f2, #e52d3e, #020202, #000000);
+	margin: 0%;
+	padding: 0%;
+}
+.Senna{
+	background: linear-gradient(#e2e9f2, #404951, #000000);
+	margin: 0%;
+	padding: 0%;
+}
+.Nevera{
+	background: linear-gradient(#e2e9f2, #c1d2e3, #000000);
+	margin: 0%;
+	padding: 0%;
+}
+.evija{
+	background: linear-gradient(#e2e9f2, #268e71, #000000);
+	margin: 0%;
+	padding: 0%;
+}
+.footer2{
+	text-align: center;
+	margin-right: 3%;
+}
